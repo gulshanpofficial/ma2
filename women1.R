@@ -1,0 +1,3 @@
+#myfirstRscript
+data(women)
+women
